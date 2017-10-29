@@ -1,7 +1,7 @@
 using System;
 using System.Reflection;
 
-namespace SampleREST.Areas.HelpPage.ModelDescriptions
+namespace ContactManager.Areas.HelpPage.ModelDescriptions
 {
     public interface IModelDocumentationProvider
     {

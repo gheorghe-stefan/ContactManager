@@ -4,7 +4,7 @@ using System.Linq;
 using System.Web;
 using System.Web.Mvc;
 
-namespace SampleREST.Controllers
+namespace ContactManager.Controllers
 {
     public class HomeController : Controller
     {

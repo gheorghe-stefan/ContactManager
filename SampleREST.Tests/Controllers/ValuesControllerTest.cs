@@ -5,10 +5,10 @@ using System.Net.Http;
 using System.Text;
 using System.Web.Http;
 using Microsoft.VisualStudio.TestTools.UnitTesting;
-using SampleREST;
-using SampleREST.Controllers;
+using ContactManager;
+using ContactManager.Controllers;
 
-namespace SampleREST.Tests.Controllers
+namespace ContactManager.Tests.Controllers
 {
     [TestClass]
     public class ValuesControllerTest

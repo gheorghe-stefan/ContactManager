@@ -1,10 +1,10 @@
 using System;
 using System.Web.Http;
 using System.Web.Mvc;
-using SampleREST.Areas.HelpPage.ModelDescriptions;
-using SampleREST.Areas.HelpPage.Models;
+using ContactManager.Areas.HelpPage.ModelDescriptions;
+using ContactManager.Areas.HelpPage.Models;
 
-namespace SampleREST.Areas.HelpPage.Controllers
+namespace ContactManager.Areas.HelpPage.Controllers
 {
     /// <summary>
     /// The controller that will handle requests for the help page.

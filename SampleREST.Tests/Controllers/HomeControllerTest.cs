@@ -1,9 +1,9 @@
 ﻿using System.Web.Mvc;
 using Microsoft.VisualStudio.TestTools.UnitTesting;
-using SampleREST;
-using SampleREST.Controllers;
+using ContactManager;
+using ContactManager.Controllers;
 
-namespace SampleREST.Tests.Controllers
+namespace ContactManager.Tests.Controllers
 {
     [TestClass]
     public class HomeControllerTest

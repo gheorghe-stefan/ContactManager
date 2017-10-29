@@ -109,9 +109,9 @@
     <None Include="packages.config" />
   </ItemGroup>
   <ItemGroup>
-    <ProjectReference Include="..\SampleREST\SampleREST.csproj">
+    <ProjectReference Include="..\SampleREST\ContactManager.csproj">
       <Project>{9BBC9A59-97C1-4467-97D1-174C425D1AEB}</Project>
-      <Name>SampleREST</Name>
+      <Name>ContactManager</Name>
     </ProjectReference>
   </ItemGroup>
   <Import Project="$(MSBuildBinPath)\Microsoft.CSharp.targets" />
