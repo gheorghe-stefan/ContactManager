@@ -9,8 +9,8 @@
     <ProjectGuid>{98F7E869-C8BE-436C-892F-E35E8CF1A118}</ProjectGuid>
     <OutputType>Library</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
-    <RootNamespace>SampleREST.Tests</RootNamespace>
-    <AssemblyName>SampleREST.Tests</AssemblyName>
+    <RootNamespace>ContactManager.Tests</RootNamespace>
+    <AssemblyName>ContactManager.Tests</AssemblyName>
     <TargetFrameworkVersion>v4.6.1</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <ProjectTypeGuids>{3AC096D0-A1C2-E12C-1390-A8335801FDAB};{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}</ProjectTypeGuids>
@@ -109,7 +109,7 @@
     <None Include="packages.config" />
   </ItemGroup>
   <ItemGroup>
-    <ProjectReference Include="..\SampleREST\ContactManager.csproj">
+    <ProjectReference Include="..\ContactManager\ContactManager.csproj">
       <Project>{9BBC9A59-97C1-4467-97D1-174C425D1AEB}</Project>
       <Name>ContactManager</Name>
     </ProjectReference>
